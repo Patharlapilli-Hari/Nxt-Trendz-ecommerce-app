@@ -70,7 +70,7 @@ NxtTrendz is a responsive e-commerce web application built using React.js. It al
 ---
 
 ### 🛒 Cart Page
-![Cart](screenshots/cart.png)
+![Cart](https://github.com/Patharlapilli-Hari/Nxt-Trendz-ecommerce-app/blob/68310b17584aed026b3359ee1d53c8204eb6c6c8/Screenshot%202026-05-03%20192008.png)
 
 ---
 
